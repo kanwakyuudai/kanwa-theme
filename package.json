@@ -1,0 +1,21 @@
+{
+  "name": "kanwa-dark",
+  "displayName": "Kanwa Dark",
+  "description": "Yet another VSCode Theme sets desighed by Kanwakyuudai.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanwa Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kanwa Dark.json"
+      }
+    ]
+  }
+}
