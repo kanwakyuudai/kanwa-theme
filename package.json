@@ -3,8 +3,13 @@
   "displayName": "Kanwa Dark",
   "description": "Yet another VSCode Theme sets desighed by Kanwakyuudai.",
   "version": "0.0.1",
+  "publisher": "kanwakyuudai",
   "engines": {
     "vscode": "^1.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanwakyuudai/kanwa-theme"
   },
   "categories": [
     "Themes"
