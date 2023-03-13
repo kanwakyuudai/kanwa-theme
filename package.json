@@ -2,7 +2,7 @@
   "name": "kanwa-dark",
   "displayName": "Kanwa Dark",
   "description": "Yet another VSCode Theme sets desighed by Kanwakyuudai.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kanwakyuudai",
   "engines": {
     "vscode": "^1.76.0"
